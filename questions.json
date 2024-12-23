@@ -1,0 +1,169 @@
+{
+
+
+    "questions" : [
+        {
+            "question":"Which planet is closest to the Sun?",
+            "options":[
+                "Mercury",
+                "Earth",
+                "Venus",
+                "Mars"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "What is the capital of France?",
+            "options": [
+                "Paris",
+                "Berlin",
+                "Madrid",
+                "Rome"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which is the largest ocean on Earth?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "William Shakespeare",
+                "Charles Dickens",
+                "Mark Twain",
+                "Jane Austen"
+            ],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "H2O",
+                "O2",
+                "CO2",
+                "NaCl"
+            ],
+            "answer": "H2O"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Mars",
+                "Jupiter",
+                "Saturn",
+                "Venus"
+            ],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the tallest mountain in the world?",
+            "options": [
+                "Mount Everest",
+                "K2",
+                "Kangchenjunga",
+                "Makalu"
+            ],
+            "answer": "Mount Everest"
+        },
+        {
+            "question": "Which animal is known as the 'King of the Jungle'?",
+            "options": [
+                "Lion",
+                "Tiger",
+                "Elephant",
+                "Leopard"
+            ],
+            "answer": "Lion"
+        },
+        {
+            "question": "Who was the first man to step on the Moon?",
+            "options": [
+                "Neil Armstrong",
+                "Buzz Aldrin",
+                "Yuri Gagarin",
+                "Michael Collins"
+            ],
+            "answer": "Neil Armstrong"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Jupiter",
+                "Saturn",
+                "Earth",
+                "Neptune"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Which country is famous for the Great Wall?",
+            "options": [
+                "China",
+                "Japan",
+                "India",
+                "South Korea"
+            ],
+            "answer": "China"
+        },
+        {
+            "question": "What is the boiling point of water at sea level?",
+            "options": [
+                "100°C",
+                "90°C",
+                "120°C",
+                "80°C"
+            ],
+            "answer": "100°C"
+        },
+        {
+            "question": "Which is the smallest continent by land area?",
+            "options": [
+                "Australia",
+                "Europe",
+                "Antarctica",
+                "South America"
+            ],
+            "answer": "Australia"
+        },
+        {
+            "question": "Which instrument is used to measure temperature?",
+            "options": [
+                "Thermometer",
+                "Barometer",
+                "Anemometer",
+                "Hygrometer"
+            ],
+            "answer": "Thermometer"
+        },
+        {
+            "question": "What is the main gas found in the Earth's atmosphere?",
+            "options": [
+                "Nitrogen",
+                "Oxygen",
+                "Carbon Dioxide",
+                "Argon"
+            ],
+            "answer": "Nitrogen"
+        },
+        {
+            "question": "Which famous scientist developed the theory of relativity?",
+            "options": [
+                "Albert Einstein",
+                "Isaac Newton",
+                "Nikola Tesla",
+                "Galileo Galilei"
+            ],
+            "answer": "Albert Einstein"
+        }
+        
+        
+
+    ]
+}
